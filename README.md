@@ -1,6 +1,6 @@
-# 𝚻𝚰𝚳𝚴𝚫𝐒𝚫-𝚻𝚾𝚳𝐃: The Ultimate WhatsApp Bot
+# 𝚻ORDISS-𝚻𝚾𝚳𝐃: The Ultimate WhatsApp Bot
 
-**𝑇𝛪𝛭𝛮𝛥𝑆𝛥 𝑇𝛸𝛭𝐷** is a powerful and customizable WhatsApp bot built with **Node.js** and **WhatsApp Web API**. Automate WhatsApp tasks, manage groups, and much more!
+** 𝑇𝛸𝛭𝐷** is a powerful and customizable WhatsApp bot built with **Node.js** and **WhatsApp Web API**. Automate WhatsApp tasks, manage groups, and much more!
 
 ## CONNECT TO WHATSAPP:
 - **STAR REPO AND THEN** [FORK IT](https://github.com/Next5x/Timnasa-Txmd/fork) 
